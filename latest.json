@@ -1,0 +1,15 @@
+{
+  "version": "v0.15.1",
+  "notes": "Pruebas de actualización",
+  "pub_date": "2025-09-20T01:08:39Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/lizos-music/seatix-desktop/releases/v0.15.1/app-aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
+      "url": "https://github.com/lizos-music/seatix-desktop/releases/v0.15.1/app-x64-setup.nsis.zip"
+    }
+  }
+}

@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHBMUFE3SEk5VFp0TjZGb2tpNGh2cHhsQk0vQS92Q1luYmh2VGJJTjcvNkdTZUdXUDFCVFpWa29yRU5paUJWZnJHTURzTDJ3RzB1dUxXTjFuMllwemRCeE9XT29vcndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MzMzNTQ4CWZpbGU6U2VhdGl4IENvbnRyb2wgSHViLmFwcC50YXIuZ3oKc1I2Y0VvK05WK3g1N09KYzlpUDZFdXFVc0ZHcDc3T0tTSm5CZ3VEZkZIVytxTDV6QWxFZlR4a0hvd05HVmVGZDRuVkVsNm1hR0ZXSWljSHp6NEF2Qnc9PQo",
-      "url": "https://github.com/lizos-music/seatix-desktop/blob/main/releases/v0.0.1/Seatix%20Control%20Hub.app.tar.gz"
+      "url": "https://github.com/lizos-music/seatix-desktop/raw/main/releases/v0.0.1/Seatix%20Control%20Hub.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",

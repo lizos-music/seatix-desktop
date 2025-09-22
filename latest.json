@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.0",
+  "version": "v0.0.1",
   "notes": "Pruebas de actualización",
-  "pub_date": "2025-09-20T01:58:26Z",
+  "pub_date": "2025-09-22T19:27:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "unknown",
-      "url": "https://github.com/lizos-music/seatix-desktop/raw/main/releases/v0.0.0/Seatix%20Control%20Hub.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHBMUFE3SEk5VFNVRVc0WkgxYVVNUTFlMVRxUEZQUlYxMHJyR0ZWaWFxcHZmZm1JVkZRSnFpQzd6U014M0RBRzQ3QTJ5SmJNd2lJUkJVSkdEL1ZSQnpZbWVtcjhxL1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTY5MjA5CWZpbGU6U2VhdGl4IENvbnRyb2wgSHViLmFwcC50YXIuZ3oKTXVHQjZzekFMaUZKQ0p2WGwzTzJPK05MeVRFYmJkU3F1c3N4K1Z6MkVORnZ1d2c4cVBYMDc5My8rV1c3MXFPaVE0eXdEWlFJRlhwWXR1d29BNmZJQXc9PQo=",
+      "url": "https://github.com/lizos-music/seatix-desktop/raw/main/releases/v0.0.1/Seatix%20Control%20Hub.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",

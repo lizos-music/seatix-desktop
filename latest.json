@@ -1,15 +1,15 @@
 {
-  "version": "v0.0.4",
-  "notes": "Release v0.0.4",
-  "pub_date": "2025-09-23T20:15:26Z",
+  "version": "v0.0.5",
+  "notes": "Release v0.0.5",
+  "pub_date": "2025-09-23T22:35:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHBMUFE3SEk5VGVqejdnVmltSnpKbWo5c1hlOEY0MnY0NS9aY2ZUZ2VRZ1IyQmw0bmZsWGZOTGNZbGIwYyt3OVVnNFBKeE1RWHA3d1RCUy9qRlVTNU9wbFpFbEpBNUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NjU4MDM1CWZpbGU6U2VhdGl4IENvbnRyb2wgSHViLmFwcC50YXIuZ3oKbWFPeDVNS0xlNUh3Z2k2NTMwdFhLaUtLaXhvNGQyRGV3cVlOQmNLS1pEbjdJUjJIbjlVZElUYUdLSEsxQ0hOcnhYNmVlNFhvS0RDQXNpMlZwbURHQ1E9PQo=",
-      "url": "https://github.com/lizos-music/seatix-desktop/releases/download/v0.0.4/control-hub-darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHBMUFE3SEk5VFp0YjdGLy9MRnFCcFVjcTgxZGE3aHFnbjhtWlczQ2tSa3NpaUd5cTN5TXhsQXo4SVBScHVBZ1hiSUJlWVRRT3lwOHFPMFRWZXVJeGNxcDJIbStsSGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NjY1OTIxCWZpbGU6U2VhdGl4IENvbnRyb2wgSHViLmFwcC50YXIuZ3oKOVpLbjJKUGdNNmhqQ1JqOTNOeTJrUjQ1VUNKK0VvZ2Fpc2dEbHZ1RHBiRW5scUhOa1pZLzFMNVlkaDlLTXk2Q3c4Z3FqWjVoWGZlaDZIUEV4dVhMQ0E9PQo=",
+      "url": "https://github.com/lizos-music/seatix-desktop/releases/download/v0.0.5/control-hub-darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHBMUFE3SEk5VGRwTEZsSlJ0b3hReWJxLzNlV044VVRSL0V5K0dEZklpWCtxdlliL0puTjgwTnViUU9BMGJRbHZpcjhxcW9FMis2QzhkQURWQ1Z1R3RSbTVDWlhnSEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NjU4NDUzCWZpbGU6U2VhdGl4IENvbnRyb2wgSHViXzAuMC40X3g2NC1zZXR1cC5leGUKZXVLL1Q3WUhvVHJoSXVZZDh3S2UzRjJ5V2xPM01LQkc4UzVJdElmd0VubFVHaVUzMHJKb3R3UEkzTzJPenVjM2ltTlFlV1ZWTHhwSGoyVWN0MnJUQWc9PQo=",
-      "url": "https://github.com/lizos-music/seatix-desktop/releases/download/v0.0.4/control-hub-windows-x86_64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHBMUFE3SEk5VFlWWTBueHZLOVdhbENjY1dIYkY3U2NoZnEzcWc1Wlh6SzA5THg2Y0xzblNNc0k4TmRTdktPUmJKYi8xYzc5YzhxTVdpOXBJclM4ZVNpUzRQU0ZlK0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NjY2ODM1CWZpbGU6U2VhdGl4IENvbnRyb2wgSHViXzAuMC41X3g2NC1zZXR1cC5leGUKQlozRmFNWEp3ZzlJL3JUY1l5ZVlDVjN3YUc1bWlDNXBPbVlVZXF0WXV4dXRnRjZKVmxMQjJucTk0U0lLWk15cGxuNnlDc2UxUXBIbEh3T0R3K0NUQ3c9PQo=",
+      "url": "https://github.com/lizos-music/seatix-desktop/releases/download/v0.0.5/control-hub-windows-x86_64.exe"
     }
   }
 }
